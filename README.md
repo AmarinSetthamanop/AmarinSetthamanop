@@ -7,7 +7,7 @@ Web Developer
 Looking for a front-end developer job
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [Amarin1499900393711Setthamanop@gmail.com](mailto:Amarin1499900393711Setthamanop@gmail.com)
+* ✉️  You can contact me at [amarin.setthamanop@gmail.com](mailto:amarin.setthamanop@gmail.com)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on linkedin.com
 
